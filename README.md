@@ -1,5 +1,4 @@
-# discord.js-bot
-simple discord bot
-dont forget to make a bot application from discord
-dont forget to install  discord js
+
+dont forget to make a bot application from discord,
+dont forget to install  discord js,
 your bot is ready!
